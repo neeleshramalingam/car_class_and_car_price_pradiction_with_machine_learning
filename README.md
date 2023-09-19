@@ -1,4 +1,4 @@
-# car_class_and_car_price_pradiction_with_machine_learning
+# car_class_and_car_price_prediction_with_machine_learning
 Built Machine learning model which can predict price and class of a car.
 # Problem statement:
 The automobile industry is constantly growing and evolving, with the emergence of new technologies and features that make cars more advanced and sophisticated. The increasing number of car models and brands in the market has made it challenging for customers to determine the value of a car or classify it into a specific category. Therefore, car price prediction and car class classification have become crucial tasks in the automotive industry.
